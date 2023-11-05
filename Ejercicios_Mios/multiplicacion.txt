@@ -1,0 +1,14 @@
+1 Inicio
+2 Declara num1, num2, resulta, respuesta (int)
+3 Escribir "Ingresa el número 1"
+4 Asigna num1
+3 Escribir "Ingresa el número 2"
+4 Asigna num2
+5 Escribir "Cuál es el resultado de la operación?"
+6 Asigna respuesta
+7 resulta = num1*num2
+8 Si respuesta=resulta correcto
+9 Si respuesta<>resulta incorrecto
+
+
+
